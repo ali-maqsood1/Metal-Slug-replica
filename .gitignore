@@ -1,0 +1,17 @@
+# Ignore compiled object files
+*.o
+
+# Ignore the compiled game binary
+main
+main.exe
+
+# macOS system files
+.DS_Store
+
+# VS Code settings folder
+.vscode/
+
+# Temporary or backup files
+*.log
+*.tmp
+*~
